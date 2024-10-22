@@ -1,0 +1,15 @@
+PRODUCT_NAME,EXCH,MARKET_TYPE,CLEARING,GLOBEX,CLEARPORT,VOLUME,VOLUME_MARKET_SHARE,OPEN_INTEREST,OI_MARKET_SHARE,IS_BTIC,ACTIVITY_STATUS,ASSET_CLASS,PRODUCT_GROUP
+Bloomberg Commodity Index Futures,CBOT,Futures,70,AW,70,103.0,92.79,176734.0,52.6,0,Active,Agriculture,Commodity Indices
+Cleared OTC Bloomberg Commodity Index Swaps,CBOT,Swaps,DGS,,DGS,0.0,0.0,60512.0,18.01,0,Active,Agriculture,Commodity Indices
+S&P-GSCI Excess Return Index Swaps,CME,Swaps,SES,,SES,0.0,0.0,38449.0,11.44,0,Active,Agriculture,Commodity Indices
+S&P-GSCI ER Index Futures,CME,Futures,GA,GIE,GA,0.0,0.0,31521.0,9.38,0,Active,Agriculture,Commodity Indices
+Bloomberg Roll Select Commodity Index Futures,CBOT,Futures,DRS,DRS,DRS,0.0,0.0,27629.0,8.22,0,Active,Agriculture,Commodity Indices
+S&P-GSCI Commodity Index Futures,CME,Futures,GI,GD,GI,8.0,7.21,1120.0,0.33,0,Active,Agriculture,Commodity Indices
+Options on Bloomberg Commodity Index Futures,CBOT,Options,70,AW,70,0.0,0.0,8.0,0.0,0,Active,Agriculture,Commodity Indices
+BTIC on S&P-GSCI Excess Return Index Swaps,CME,Swaps,SET,,SET,0.0,0.0,0.0,0.0,1,Inactive,Agriculture,Commodity Indices
+BTIC on S&P-GSCI Excess Return Index Futures,CME,Futures,GIT,GIT,GIT,0.0,0.0,0.0,0.0,1,Inactive,Agriculture,Commodity Indices
+BTIC on Bloomberg Roll Select Commodity Index Futures,CBOT,Futures,DRT,DRT,DRT,0.0,0.0,0.0,0.0,1,Inactive,Agriculture,Commodity Indices
+BTIC on S&P-GSCI Commodity Index Futures,CME,Futures,GDT,GDT,GDT,0.0,0.0,0.0,0.0,1,Inactive,Agriculture,Commodity Indices
+BTIC on Bloomberg Commodity Index Swaps,CBOT,Swaps,DGT,,DGT,0.0,0.0,0.0,0.0,1,Inactive,Agriculture,Commodity Indices
+BTIC on Bloomberg Commodity Index Futures,CBOT,Futures,AWT,AWT,AWT,0.0,0.0,0.0,0.0,1,Inactive,Agriculture,Commodity Indices
+S&P GSCI Enhanced ER Swaps,CME,Swaps,RRE,,RRE,0.0,0.0,0.0,0.0,0,Inactive,Agriculture,Commodity Indices
